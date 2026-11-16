@@ -1,0 +1,4 @@
+interface:
+  display_name: "vvystudio 五版封面"
+  short_description: "输入标题、字体颜色和人物照片，生成五版封面，包含无人物竖版及 YouTube 英文横版"
+  default_prompt: "使用 $vvystudio-covers，根据我提供的标题、字体颜色和人物照片生成五版封面，包含 YouTube 英文版。"
