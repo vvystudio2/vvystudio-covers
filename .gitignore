@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+node_modules/
+.venv/
+__pycache__/
+dist/
+build/
+*.zip
+*.mp4
+*.mov
+*.mkv
+*.wav
