@@ -1,5 +1,6 @@
 ---
 name: vvystudio-covers
+license: MIT
 description: 根据标题、字体颜色和人物照片制作 vvystudio 五版视频封面，包含有人 3:4、4:3、16:9、无人物 3:4 和 YouTube 英文 16:9。用于“做五版封面”“按 vvystudio 风格生成封面”等请求；按当前 agent 的图像工具能力执行。
 ---
 
